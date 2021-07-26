@@ -1,2 +1,2 @@
-# abito
+# Abito
 учебный проект GLO-Academy
