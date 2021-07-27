@@ -79,6 +79,7 @@ body {
     background: transparent;
     display: inline-block;
     margin-left: -15px;
+    margin-right: 20px;
     color: white;
     border: 0;
     cursor: pointer;
